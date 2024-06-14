@@ -1,0 +1,22 @@
+h1 {
+    padding: 20px;
+    margin: auto;
+    border: 2px solid black;
+    text-align: center;
+    background-color: rgb(184, 184, 2);
+}
+
+.vot1{
+    width: 55%;
+    height: 70%;
+    padding: 40px 200px;
+    margin: 20px 250px;
+    display: inline-block;
+    box-sizing: border-box;
+    text-align: center;
+    font-weight: bolder;
+    background-color: rgb(170, 168, 168);
+    border: 3px solid black;
+    color: black;
+    text-decoration: none;
+}

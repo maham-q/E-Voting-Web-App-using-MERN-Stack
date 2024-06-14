@@ -1,0 +1,27 @@
+.voters-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .voters-table {
+    border-collapse: collapse;
+    width: 80%;
+    margin-bottom: 20px;
+  }
+  
+  .voters-table th, .voters-table td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  .voter-row:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  .voter-row:hover {
+    background-color: #ddd;
+  }
+  
